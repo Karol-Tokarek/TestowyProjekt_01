@@ -19,7 +19,8 @@ namespace TestowyProjekt_01
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            System.Console.WriteLine("CCC");
+            label1.Hide();
         }
     }
 }
